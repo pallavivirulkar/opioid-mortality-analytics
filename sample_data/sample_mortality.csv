@@ -1,0 +1,364 @@
+County,County Code,Year,Year Code,Deaths,Population,Crude Rate,is_suppressed
+"Cabell County, WV",54011,2015,2015,13,96000,13.8,False
+"Cabell County, WV",54011,2016,2016,15,96960,15.7,False
+"Cabell County, WV",54011,2017,2017,17,97920,17.7,False
+"Cabell County, WV",54011,2018,2018,20,98880,20.5,False
+"Cabell County, WV",54011,2019,2019,23,99840,22.6,False
+"Cabell County, WV",54011,2020,2020,25,100800,24.8,False
+"Cabell County, WV",54011,2021,2021,31,101760,30.9,False
+"Cabell County, WV",54011,2022,2022,36,102720,34.7,False
+"Cabell County, WV",54011,2023,2023,41,103680,39.4,False
+"Kanawha County, WV",54039,2015,2015,26,187000,14.1,False
+"Kanawha County, WV",54039,2016,2016,31,188870,16.2,False
+"Kanawha County, WV",54039,2017,2017,36,190740,19.1,False
+"Kanawha County, WV",54039,2018,2018,39,192610,20.4,False
+"Kanawha County, WV",54039,2019,2019,44,194480,22.8,False
+"Kanawha County, WV",54039,2020,2020,50,196350,25.6,False
+"Kanawha County, WV",54039,2021,2021,58,198220,29.4,False
+"Kanawha County, WV",54039,2022,2022,70,200090,35.2,False
+"Kanawha County, WV",54039,2023,2023,83,201960,41.1,False
+"Scioto County, OH",39145,2015,2015,11,76000,14.0,False
+"Scioto County, OH",39145,2016,2016,12,76760,15.8,False
+"Scioto County, OH",39145,2017,2017,14,77520,18.4,False
+"Scioto County, OH",39145,2018,2018,14,78280,18.1,False
+"Scioto County, OH",39145,2019,2019,18,79040,22.4,False
+"Scioto County, OH",39145,2020,2020,21,79800,26.9,False
+"Scioto County, OH",39145,2021,2021,25,80560,31.5,False
+"Scioto County, OH",39145,2022,2022,28,81320,34.7,False
+"Scioto County, OH",39145,2023,2023,33,82080,40.1,False
+"Montgomery County, OH",39113,2015,2015,76,531000,14.3,False
+"Montgomery County, OH",39113,2016,2016,90,536310,16.8,False
+"Montgomery County, OH",39113,2017,2017,90,541620,16.6,False
+"Montgomery County, OH",39113,2018,2018,111,546930,20.3,False
+"Montgomery County, OH",39113,2019,2019,116,552240,21.0,False
+"Montgomery County, OH",39113,2020,2020,131,557550,23.5,False
+"Montgomery County, OH",39113,2021,2021,168,562860,29.9,False
+"Montgomery County, OH",39113,2022,2022,193,568170,34.0,False
+"Montgomery County, OH",39113,2023,2023,233,573480,40.6,False
+"Franklin County, OH",39049,2015,2015,160,1260000,12.7,False
+"Franklin County, OH",39049,2016,2016,143,1272600,11.3,False
+"Franklin County, OH",39049,2017,2017,182,1285200,14.1,False
+"Franklin County, OH",39049,2018,2018,165,1297800,12.7,False
+"Franklin County, OH",39049,2019,2019,187,1310400,14.3,False
+"Franklin County, OH",39049,2020,2020,194,1323000,14.7,False
+"Franklin County, OH",39049,2021,2021,210,1335600,15.7,False
+"Franklin County, OH",39049,2022,2022,231,1348200,17.1,False
+"Franklin County, OH",39049,2023,2023,238,1360800,17.5,False
+"Fayette County, KY",21067,2015,2015,40,320000,12.4,False
+"Fayette County, KY",21067,2016,2016,43,323200,13.3,False
+"Fayette County, KY",21067,2017,2017,45,326400,13.7,False
+"Fayette County, KY",21067,2018,2018,43,329600,13.1,False
+"Fayette County, KY",21067,2019,2019,45,332800,13.6,False
+"Fayette County, KY",21067,2020,2020,49,336000,14.5,False
+"Fayette County, KY",21067,2021,2021,55,339200,16.1,False
+"Fayette County, KY",21067,2022,2022,55,342400,15.9,False
+"Fayette County, KY",21067,2023,2023,67,345600,19.4,False
+"Pike County, KY",21195,2015,2015,Suppressed,61000,Suppressed,True
+"Pike County, KY",21195,2016,2016,Suppressed,61610,Suppressed,True
+"Pike County, KY",21195,2017,2017,12,62220,18.6,False
+"Pike County, KY",21195,2018,2018,13,62830,21.3,False
+"Pike County, KY",21195,2019,2019,15,63440,23.3,False
+"Pike County, KY",21195,2020,2020,17,64050,27.3,False
+"Pike County, KY",21195,2021,2021,21,64660,32.1,False
+"Pike County, KY",21195,2022,2022,23,65270,34.9,False
+"Pike County, KY",21195,2023,2023,25,65880,38.1,False
+"Allegheny County, PA",42003,2015,2015,140,1225000,11.4,False
+"Allegheny County, PA",42003,2016,2016,169,1237250,13.6,False
+"Allegheny County, PA",42003,2017,2017,145,1249500,11.6,False
+"Allegheny County, PA",42003,2018,2018,175,1261750,13.8,False
+"Allegheny County, PA",42003,2019,2019,187,1274000,14.7,False
+"Allegheny County, PA",42003,2020,2020,188,1286250,14.7,False
+"Allegheny County, PA",42003,2021,2021,213,1298500,16.4,False
+"Allegheny County, PA",42003,2022,2022,221,1310750,16.8,False
+"Allegheny County, PA",42003,2023,2023,256,1323000,19.4,False
+"Philadelphia County, PA",42101,2015,2015,230,1567000,14.7,False
+"Philadelphia County, PA",42101,2016,2016,241,1582670,15.2,False
+"Philadelphia County, PA",42101,2017,2017,275,1598340,17.2,False
+"Philadelphia County, PA",42101,2018,2018,303,1614010,18.8,False
+"Philadelphia County, PA",42101,2019,2019,387,1629680,23.7,False
+"Philadelphia County, PA",42101,2020,2020,424,1645350,25.8,False
+"Philadelphia County, PA",42101,2021,2021,506,1661020,30.4,False
+"Philadelphia County, PA",42101,2022,2022,600,1676690,35.8,False
+"Philadelphia County, PA",42101,2023,2023,658,1692360,38.9,False
+"Suffolk County, MA",25025,2015,2015,94,803000,11.7,False
+"Suffolk County, MA",25025,2016,2016,86,811030,10.6,False
+"Suffolk County, MA",25025,2017,2017,98,819060,12.0,False
+"Suffolk County, MA",25025,2018,2018,109,827090,13.2,False
+"Suffolk County, MA",25025,2019,2019,124,835120,14.9,False
+"Suffolk County, MA",25025,2020,2020,138,843150,16.3,False
+"Suffolk County, MA",25025,2021,2021,133,851180,15.6,False
+"Suffolk County, MA",25025,2022,2022,142,859210,16.5,False
+"Suffolk County, MA",25025,2023,2023,147,867240,17.0,False
+"Essex County, MA",25009,2015,2015,104,789000,13.2,False
+"Essex County, MA",25009,2016,2016,108,796890,13.6,False
+"Essex County, MA",25009,2017,2017,109,804780,13.5,False
+"Essex County, MA",25009,2018,2018,103,812670,12.7,False
+"Essex County, MA",25009,2019,2019,126,820560,15.4,False
+"Essex County, MA",25009,2020,2020,128,828450,15.4,False
+"Essex County, MA",25009,2021,2021,142,836340,16.9,False
+"Essex County, MA",25009,2022,2022,136,844230,16.2,False
+"Essex County, MA",25009,2023,2023,161,852120,18.9,False
+"Miami-Dade County, FL",12086,2015,2015,313,2700000,11.6,False
+"Miami-Dade County, FL",12086,2016,2016,391,2727000,14.4,False
+"Miami-Dade County, FL",12086,2017,2017,367,2754000,13.3,False
+"Miami-Dade County, FL",12086,2018,2018,368,2781000,13.2,False
+"Miami-Dade County, FL",12086,2019,2019,369,2808000,13.2,False
+"Miami-Dade County, FL",12086,2020,2020,421,2835000,14.8,False
+"Miami-Dade County, FL",12086,2021,2021,491,2862000,17.2,False
+"Miami-Dade County, FL",12086,2022,2022,494,2889000,17.1,False
+"Miami-Dade County, FL",12086,2023,2023,512,2916000,17.6,False
+"Palm Beach County, FL",12099,2015,2015,136,1450000,9.4,False
+"Palm Beach County, FL",12099,2016,2016,196,1464500,13.4,False
+"Palm Beach County, FL",12099,2017,2017,204,1479000,13.8,False
+"Palm Beach County, FL",12099,2018,2018,197,1493500,13.2,False
+"Palm Beach County, FL",12099,2019,2019,207,1508000,13.7,False
+"Palm Beach County, FL",12099,2020,2020,228,1522500,15.0,False
+"Palm Beach County, FL",12099,2021,2021,269,1537000,17.5,False
+"Palm Beach County, FL",12099,2022,2022,233,1551500,15.0,False
+"Palm Beach County, FL",12099,2023,2023,256,1566000,16.3,False
+"Los Angeles County, CA",06037,2015,2015,1363,10100000,13.5,False
+"Los Angeles County, CA",06037,2016,2016,1235,10201000,12.1,False
+"Los Angeles County, CA",06037,2017,2017,1319,10302000,12.8,False
+"Los Angeles County, CA",06037,2018,2018,1447,10403000,13.9,False
+"Los Angeles County, CA",06037,2019,2019,1369,10504000,13.0,False
+"Los Angeles County, CA",06037,2020,2020,1616,10605000,15.2,False
+"Los Angeles County, CA",06037,2021,2021,1528,10706000,14.3,False
+"Los Angeles County, CA",06037,2022,2022,1856,10807000,17.2,False
+"Los Angeles County, CA",06037,2023,2023,1833,10908000,16.8,False
+"San Francisco County, CA",06075,2015,2015,126,865000,14.5,False
+"San Francisco County, CA",06075,2016,2016,113,873650,12.9,False
+"San Francisco County, CA",06075,2017,2017,130,882300,14.7,False
+"San Francisco County, CA",06075,2018,2018,110,890950,12.4,False
+"San Francisco County, CA",06075,2019,2019,128,899600,14.3,False
+"San Francisco County, CA",06075,2020,2020,139,908250,15.4,False
+"San Francisco County, CA",06075,2021,2021,161,916900,17.5,False
+"San Francisco County, CA",06075,2022,2022,133,925550,14.4,False
+"San Francisco County, CA",06075,2023,2023,167,934200,17.9,False
+"New York County, NY",36061,2015,2015,206,1630000,12.7,False
+"New York County, NY",36061,2016,2016,235,1646300,14.3,False
+"New York County, NY",36061,2017,2017,232,1662600,14.0,False
+"New York County, NY",36061,2018,2018,233,1678900,13.9,False
+"New York County, NY",36061,2019,2019,234,1695200,13.8,False
+"New York County, NY",36061,2020,2020,233,1711500,13.6,False
+"New York County, NY",36061,2021,2021,273,1727800,15.8,False
+"New York County, NY",36061,2022,2022,279,1744100,16.0,False
+"New York County, NY",36061,2023,2023,335,1760400,19.0,False
+"Erie County, NY",36029,2015,2015,104,919000,11.3,False
+"Erie County, NY",36029,2016,2016,120,928190,13.0,False
+"Erie County, NY",36029,2017,2017,108,937380,11.5,False
+"Erie County, NY",36029,2018,2018,127,946570,13.4,False
+"Erie County, NY",36029,2019,2019,140,955760,14.7,False
+"Erie County, NY",36029,2020,2020,153,964950,15.9,False
+"Erie County, NY",36029,2021,2021,167,974140,17.2,False
+"Erie County, NY",36029,2022,2022,159,983330,16.2,False
+"Erie County, NY",36029,2023,2023,155,992520,15.6,False
+"Davidson County, TN",47037,2015,2015,86,691000,12.5,False
+"Davidson County, TN",47037,2016,2016,92,697910,13.2,False
+"Davidson County, TN",47037,2017,2017,97,704820,13.7,False
+"Davidson County, TN",47037,2018,2018,93,711730,13.0,False
+"Davidson County, TN",47037,2019,2019,112,718640,15.6,False
+"Davidson County, TN",47037,2020,2020,110,725550,15.1,False
+"Davidson County, TN",47037,2021,2021,120,732460,16.4,False
+"Davidson County, TN",47037,2022,2022,130,739370,17.6,False
+"Davidson County, TN",47037,2023,2023,130,746280,17.5,False
+"Knox County, TN",47093,2015,2015,57,460000,12.3,False
+"Knox County, TN",47093,2016,2016,70,464600,15.0,False
+"Knox County, TN",47093,2017,2017,63,469200,13.5,False
+"Knox County, TN",47093,2018,2018,64,473800,13.5,False
+"Knox County, TN",47093,2019,2019,69,478400,14.5,False
+"Knox County, TN",47093,2020,2020,80,483000,16.6,False
+"Knox County, TN",47093,2021,2021,77,487600,15.7,False
+"Knox County, TN",47093,2022,2022,83,492200,16.8,False
+"Knox County, TN",47093,2023,2023,90,496800,18.1,False
+"Bernalillo County, NM",35001,2015,2015,91,679000,13.4,False
+"Bernalillo County, NM",35001,2016,2016,96,685790,14.0,False
+"Bernalillo County, NM",35001,2017,2017,126,692580,18.1,False
+"Bernalillo County, NM",35001,2018,2018,140,699370,20.0,False
+"Bernalillo County, NM",35001,2019,2019,156,706160,22.0,False
+"Bernalillo County, NM",35001,2020,2020,195,712950,27.4,False
+"Bernalillo County, NM",35001,2021,2021,224,719740,31.2,False
+"Bernalillo County, NM",35001,2022,2022,246,726530,33.9,False
+"Bernalillo County, NM",35001,2023,2023,295,733320,40.2,False
+"Rio Arriba County, NM",35039,2015,2015,Suppressed,39000,Suppressed,True
+"Rio Arriba County, NM",35039,2016,2016,Suppressed,39390,Suppressed,True
+"Rio Arriba County, NM",35039,2017,2017,Suppressed,39780,Suppressed,True
+"Rio Arriba County, NM",35039,2018,2018,Suppressed,40170,Suppressed,True
+"Rio Arriba County, NM",35039,2019,2019,Suppressed,40560,Suppressed,True
+"Rio Arriba County, NM",35039,2020,2020,11,40950,27.0,False
+"Rio Arriba County, NM",35039,2021,2021,13,41340,31.1,False
+"Rio Arriba County, NM",35039,2022,2022,14,41730,34.3,False
+"Rio Arriba County, NM",35039,2023,2023,17,42120,40.1,False
+"Maricopa County, AZ",04013,2015,2015,536,4090000,13.1,False
+"Maricopa County, AZ",04013,2016,2016,488,4130900,11.8,False
+"Maricopa County, AZ",04013,2017,2017,568,4171800,13.6,False
+"Maricopa County, AZ",04013,2018,2018,581,4212700,13.8,False
+"Maricopa County, AZ",04013,2019,2019,719,4253600,16.9,False
+"Maricopa County, AZ",04013,2020,2020,556,4294500,13.0,False
+"Maricopa County, AZ",04013,2021,2021,709,4335400,16.4,False
+"Maricopa County, AZ",04013,2022,2022,694,4376300,15.9,False
+"Maricopa County, AZ",04013,2023,2023,737,4417200,16.7,False
+"Pima County, AZ",04019,2015,2015,142,1010000,14.1,False
+"Pima County, AZ",04019,2016,2016,128,1020100,12.6,False
+"Pima County, AZ",04019,2017,2017,161,1030200,15.7,False
+"Pima County, AZ",04019,2018,2018,139,1040300,13.3,False
+"Pima County, AZ",04019,2019,2019,155,1050400,14.8,False
+"Pima County, AZ",04019,2020,2020,153,1060500,14.5,False
+"Pima County, AZ",04019,2021,2021,159,1070600,14.8,False
+"Pima County, AZ",04019,2022,2022,176,1080700,16.3,False
+"Pima County, AZ",04019,2023,2023,180,1090800,16.5,False
+"Cook County, IL",17031,2015,2015,639,5230000,12.2,False
+"Cook County, IL",17031,2016,2016,543,5282300,10.3,False
+"Cook County, IL",17031,2017,2017,822,5334600,15.4,False
+"Cook County, IL",17031,2018,2018,733,5386900,13.6,False
+"Cook County, IL",17031,2019,2019,888,5439200,16.3,False
+"Cook County, IL",17031,2020,2020,763,5491500,13.9,False
+"Cook County, IL",17031,2021,2021,883,5543800,15.9,False
+"Cook County, IL",17031,2022,2022,1101,5596100,19.7,False
+"Cook County, IL",17031,2023,2023,895,5648400,15.8,False
+"Sangamon County, IL",17167,2015,2015,20,197000,10.4,False
+"Sangamon County, IL",17167,2016,2016,24,198970,12.0,False
+"Sangamon County, IL",17167,2017,2017,28,200940,13.7,False
+"Sangamon County, IL",17167,2018,2018,30,202910,14.6,False
+"Sangamon County, IL",17167,2019,2019,32,204880,15.8,False
+"Sangamon County, IL",17167,2020,2020,30,206850,14.7,False
+"Sangamon County, IL",17167,2021,2021,29,208820,13.8,False
+"Sangamon County, IL",17167,2022,2022,33,210790,15.7,False
+"Sangamon County, IL",17167,2023,2023,39,212760,18.2,False
+"Mecklenburg County, NC",37119,2015,2015,130,1035000,12.5,False
+"Mecklenburg County, NC",37119,2016,2016,109,1045350,10.4,False
+"Mecklenburg County, NC",37119,2017,2017,139,1055700,13.2,False
+"Mecklenburg County, NC",37119,2018,2018,164,1066050,15.3,False
+"Mecklenburg County, NC",37119,2019,2019,180,1076400,16.7,False
+"Mecklenburg County, NC",37119,2020,2020,170,1086750,15.6,False
+"Mecklenburg County, NC",37119,2021,2021,175,1097100,15.9,False
+"Mecklenburg County, NC",37119,2022,2022,164,1107450,14.8,False
+"Mecklenburg County, NC",37119,2023,2023,177,1117800,15.9,False
+"Buncombe County, NC",37021,2015,2015,30,253000,12.1,False
+"Buncombe County, NC",37021,2016,2016,34,255530,13.2,False
+"Buncombe County, NC",37021,2017,2017,36,258060,13.8,False
+"Buncombe County, NC",37021,2018,2018,35,260590,13.3,False
+"Buncombe County, NC",37021,2019,2019,35,263120,13.1,False
+"Buncombe County, NC",37021,2020,2020,38,265650,14.1,False
+"Buncombe County, NC",37021,2021,2021,38,268180,14.3,False
+"Buncombe County, NC",37021,2022,2022,46,270710,16.9,False
+"Buncombe County, NC",37021,2023,2023,39,273240,14.3,False
+"Marion County, IN",18097,2015,2015,128,941000,13.6,False
+"Marion County, IN",18097,2016,2016,156,950410,16.4,False
+"Marion County, IN",18097,2017,2017,187,959820,19.5,False
+"Marion County, IN",18097,2018,2018,192,969230,19.8,False
+"Marion County, IN",18097,2019,2019,233,978640,23.8,False
+"Marion County, IN",18097,2020,2020,257,988050,26.0,False
+"Marion County, IN",18097,2021,2021,296,997460,29.7,False
+"Marion County, IN",18097,2022,2022,345,1006870,34.2,False
+"Marion County, IN",18097,2023,2023,420,1016280,41.4,False
+"Scott County, IN",18143,2015,2015,Suppressed,24000,Suppressed,True
+"Scott County, IN",18143,2016,2016,Suppressed,24240,Suppressed,True
+"Scott County, IN",18143,2017,2017,Suppressed,24480,Suppressed,True
+"Scott County, IN",18143,2018,2018,Suppressed,24720,Suppressed,True
+"Scott County, IN",18143,2019,2019,Suppressed,24960,Suppressed,True
+"Scott County, IN",18143,2020,2020,Suppressed,25200,Suppressed,True
+"Scott County, IN",18143,2021,2021,Suppressed,25440,Suppressed,True
+"Scott County, IN",18143,2022,2022,10,25680,37.5,False
+"Scott County, IN",18143,2023,2023,11,25920,41.3,False
+"Baltimore city, MD",24510,2015,2015,77,615000,12.5,False
+"Baltimore city, MD",24510,2016,2016,96,621150,15.5,False
+"Baltimore city, MD",24510,2017,2017,115,627300,18.3,False
+"Baltimore city, MD",24510,2018,2018,130,633450,20.6,False
+"Baltimore city, MD",24510,2019,2019,136,639600,21.2,False
+"Baltimore city, MD",24510,2020,2020,154,645750,23.9,False
+"Baltimore city, MD",24510,2021,2021,185,651900,28.4,False
+"Baltimore city, MD",24510,2022,2022,230,658050,34.9,False
+"Baltimore city, MD",24510,2023,2023,263,664200,39.6,False
+"Baltimore County, MD",24005,2015,2015,119,828000,14.4,False
+"Baltimore County, MD",24005,2016,2016,126,836280,15.1,False
+"Baltimore County, MD",24005,2017,2017,139,844560,16.5,False
+"Baltimore County, MD",24005,2018,2018,149,852840,17.5,False
+"Baltimore County, MD",24005,2019,2019,199,861120,23.1,False
+"Baltimore County, MD",24005,2020,2020,233,869400,26.8,False
+"Baltimore County, MD",24005,2021,2021,277,877680,31.6,False
+"Baltimore County, MD",24005,2022,2022,317,885960,35.8,False
+"Baltimore County, MD",24005,2023,2023,353,894240,39.5,False
+"Chittenden County, VT",50007,2015,2015,22,162000,13.5,False
+"Chittenden County, VT",50007,2016,2016,20,163620,12.4,False
+"Chittenden County, VT",50007,2017,2017,21,165240,12.5,False
+"Chittenden County, VT",50007,2018,2018,22,166860,13.2,False
+"Chittenden County, VT",50007,2019,2019,23,168480,13.8,False
+"Chittenden County, VT",50007,2020,2020,21,170100,12.6,False
+"Chittenden County, VT",50007,2021,2021,27,171720,15.8,False
+"Chittenden County, VT",50007,2022,2022,29,173340,16.5,False
+"Chittenden County, VT",50007,2023,2023,29,174960,16.4,False
+"Hillsborough County, NH",33011,2015,2015,54,411000,13.2,False
+"Hillsborough County, NH",33011,2016,2016,68,415110,16.3,False
+"Hillsborough County, NH",33011,2017,2017,83,419220,19.7,False
+"Hillsborough County, NH",33011,2018,2018,84,423330,19.7,False
+"Hillsborough County, NH",33011,2019,2019,95,427440,22.1,False
+"Hillsborough County, NH",33011,2020,2020,111,431550,25.8,False
+"Hillsborough County, NH",33011,2021,2021,133,435660,30.4,False
+"Hillsborough County, NH",33011,2022,2022,148,439770,33.6,False
+"Hillsborough County, NH",33011,2023,2023,175,443880,39.5,False
+"Hartford County, CT",09003,2015,2015,108,894000,12.1,False
+"Hartford County, CT",09003,2016,2016,132,902940,14.6,False
+"Hartford County, CT",09003,2017,2017,130,911880,14.2,False
+"Hartford County, CT",09003,2018,2018,138,920820,14.9,False
+"Hartford County, CT",09003,2019,2019,127,929760,13.6,False
+"Hartford County, CT",09003,2020,2020,148,938700,15.7,False
+"Hartford County, CT",09003,2021,2021,136,947640,14.3,False
+"Hartford County, CT",09003,2022,2022,158,956580,16.5,False
+"Hartford County, CT",09003,2023,2023,167,965520,17.3,False
+"Wayne County, MI",26163,2015,2015,230,1749000,13.2,False
+"Wayne County, MI",26163,2016,2016,320,1766490,18.1,False
+"Wayne County, MI",26163,2017,2017,329,1783980,18.4,False
+"Wayne County, MI",26163,2018,2018,317,1801470,17.6,False
+"Wayne County, MI",26163,2019,2019,424,1818960,23.3,False
+"Wayne County, MI",26163,2020,2020,477,1836450,26.0,False
+"Wayne County, MI",26163,2021,2021,566,1853940,30.5,False
+"Wayne County, MI",26163,2022,2022,664,1871430,35.5,False
+"Wayne County, MI",26163,2023,2023,757,1888920,40.1,False
+"St. Louis city, MO",29510,2015,2015,35,300000,11.8,False
+"St. Louis city, MO",29510,2016,2016,44,303000,14.6,False
+"St. Louis city, MO",29510,2017,2017,57,306000,18.6,False
+"St. Louis city, MO",29510,2018,2018,65,309000,21.1,False
+"St. Louis city, MO",29510,2019,2019,77,312000,24.8,False
+"St. Louis city, MO",29510,2020,2020,89,315000,28.4,False
+"St. Louis city, MO",29510,2021,2021,90,318000,28.3,False
+"St. Louis city, MO",29510,2022,2022,115,321000,35.8,False
+"St. Louis city, MO",29510,2023,2023,122,324000,37.6,False
+"Denver County, CO",08031,2015,2015,97,704000,13.8,False
+"Denver County, CO",08031,2016,2016,92,711040,12.9,False
+"Denver County, CO",08031,2017,2017,86,718080,11.9,False
+"Denver County, CO",08031,2018,2018,116,725120,16.0,False
+"Denver County, CO",08031,2019,2019,111,732160,15.1,False
+"Denver County, CO",08031,2020,2020,96,739200,12.9,False
+"Denver County, CO",08031,2021,2021,119,746240,15.9,False
+"Denver County, CO",08031,2022,2022,116,753280,15.4,False
+"Denver County, CO",08031,2023,2023,129,760320,16.9,False
+"King County, WA",53033,2015,2015,247,2150000,11.5,False
+"King County, WA",53033,2016,2016,306,2171500,14.1,False
+"King County, WA",53033,2017,2017,255,2193000,11.6,False
+"King County, WA",53033,2018,2018,313,2214500,14.1,False
+"King County, WA",53033,2019,2019,367,2236000,16.4,False
+"King County, WA",53033,2020,2020,318,2257500,14.1,False
+"King County, WA",53033,2021,2021,361,2279000,15.8,False
+"King County, WA",53033,2022,2022,378,2300500,16.4,False
+"King County, WA",53033,2023,2023,372,2322000,16.0,False
+"Multnomah County, OR",41051,2015,2015,103,812000,12.7,False
+"Multnomah County, OR",41051,2016,2016,104,820120,12.7,False
+"Multnomah County, OR",41051,2017,2017,101,828240,12.2,False
+"Multnomah County, OR",41051,2018,2018,132,836360,15.7,False
+"Multnomah County, OR",41051,2019,2019,129,844480,15.3,False
+"Multnomah County, OR",41051,2020,2020,126,852600,14.8,False
+"Multnomah County, OR",41051,2021,2021,128,860720,14.9,False
+"Multnomah County, OR",41051,2022,2022,133,868840,15.3,False
+"Multnomah County, OR",41051,2023,2023,159,876960,18.2,False
+"Fulton County, GA",13121,2015,2015,122,1030000,11.8,False
+"Fulton County, GA",13121,2016,2016,136,1040300,13.1,False
+"Fulton County, GA",13121,2017,2017,137,1050600,13.0,False
+"Fulton County, GA",13121,2018,2018,154,1060900,14.5,False
+"Fulton County, GA",13121,2019,2019,153,1071200,14.3,False
+"Fulton County, GA",13121,2020,2020,171,1081500,15.8,False
+"Fulton County, GA",13121,2021,2021,168,1091800,15.4,False
+"Fulton County, GA",13121,2022,2022,189,1102100,17.1,False
+"Fulton County, GA",13121,2023,2023,195,1112400,17.5,False
+"---"
+"Dataset: Synthetic sample data modeled on CDC WONDER Multiple Cause of Death output."
+"Suppressed rows represent county-years with fewer than 10 deaths (per CDC privacy rules)."

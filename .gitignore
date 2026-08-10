@@ -1,0 +1,44 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment / secrets
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Raw data (large, restricted, or must be self-downloaded — see docs/data_acquisition_guide.md)
+data/raw/*.csv
+data/raw/*.txt
+data/raw/*.zip
+!data/raw/.gitkeep
+data/processed/*.csv
+data/processed/*.parquet
+data/processed/*.geojson
+!data/processed/.gitkeep
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/

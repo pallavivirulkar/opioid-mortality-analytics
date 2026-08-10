@@ -1,0 +1,361 @@
+State,County,County Code,Year,Total Claims,Opioid Claims,Opioid Prescribing Rate
+West Virginia,Cabell County,54011,2015,332828,43778,13.15
+West Virginia,Cabell County,54011,2016,283132,39797,14.06
+West Virginia,Cabell County,54011,2017,114656,17245,15.04
+West Virginia,Cabell County,54011,2018,148547,19637,13.22
+West Virginia,Cabell County,54011,2019,287587,32531,11.31
+West Virginia,Cabell County,54011,2020,297303,27554,9.27
+West Virginia,Cabell County,54011,2021,366602,25783,7.03
+West Virginia,Cabell County,54011,2022,118303,6358,5.37
+West Virginia,Cabell County,54011,2023,363251,20341,5.6
+West Virginia,Kanawha County,54039,2015,188119,25048,13.31
+West Virginia,Kanawha County,54039,2016,80339,11230,13.98
+West Virginia,Kanawha County,54039,2017,392358,54881,13.99
+West Virginia,Kanawha County,54039,2018,364643,47531,13.04
+West Virginia,Kanawha County,54039,2019,229115,24333,10.62
+West Virginia,Kanawha County,54039,2020,305671,27098,8.87
+West Virginia,Kanawha County,54039,2021,81735,6497,7.95
+West Virginia,Kanawha County,54039,2022,213781,13813,6.46
+West Virginia,Kanawha County,54039,2023,370109,23141,6.25
+Ohio,Scioto County,39145,2015,313375,41356,13.2
+Ohio,Scioto County,39145,2016,172784,24454,14.15
+Ohio,Scioto County,39145,2017,174317,24004,13.77
+Ohio,Scioto County,39145,2018,165425,21624,13.07
+Ohio,Scioto County,39145,2019,333065,36883,11.07
+Ohio,Scioto County,39145,2020,358254,35217,9.83
+Ohio,Scioto County,39145,2021,369223,26623,7.21
+Ohio,Scioto County,39145,2022,127041,8433,6.64
+Ohio,Scioto County,39145,2023,103967,5189,4.99
+Ohio,Montgomery County,39113,2015,360427,47397,13.15
+Ohio,Montgomery County,39113,2016,346843,51384,14.81
+Ohio,Montgomery County,39113,2017,339671,49743,14.64
+Ohio,Montgomery County,39113,2018,138138,16954,12.27
+Ohio,Montgomery County,39113,2019,367738,42421,11.54
+Ohio,Montgomery County,39113,2020,92255,8193,8.88
+Ohio,Montgomery County,39113,2021,27805,2245,8.07
+Ohio,Montgomery County,39113,2022,335483,24664,7.35
+Ohio,Montgomery County,39113,2023,53182,3206,6.03
+Ohio,Franklin County,39049,2015,316817,18054,5.7
+Ohio,Franklin County,39049,2016,116940,7695,6.58
+Ohio,Franklin County,39049,2017,224533,13746,6.12
+Ohio,Franklin County,39049,2018,142918,8095,5.66
+Ohio,Franklin County,39049,2019,70882,4442,6.27
+Ohio,Franklin County,39049,2020,237899,14840,6.24
+Ohio,Franklin County,39049,2021,379858,21806,5.74
+Ohio,Franklin County,39049,2022,286559,17648,6.16
+Ohio,Franklin County,39049,2023,78626,3776,4.8
+Kentucky,Fayette County,21067,2015,254317,16818,6.61
+Kentucky,Fayette County,21067,2016,293466,19513,6.65
+Kentucky,Fayette County,21067,2017,308037,20122,6.53
+Kentucky,Fayette County,21067,2018,247035,12949,5.24
+Kentucky,Fayette County,21067,2019,336206,17978,5.35
+Kentucky,Fayette County,21067,2020,238735,14528,6.09
+Kentucky,Fayette County,21067,2021,302242,14585,4.83
+Kentucky,Fayette County,21067,2022,263866,13795,5.23
+Kentucky,Fayette County,21067,2023,250966,13498,5.38
+Kentucky,Pike County,21195,2015,349318,46049,13.18
+Kentucky,Pike County,21195,2016,160391,23579,14.7
+Kentucky,Pike County,21195,2017,343596,49643,14.45
+Kentucky,Pike County,21195,2018,140433,17086,12.17
+Kentucky,Pike County,21195,2019,164803,17923,10.88
+Kentucky,Pike County,21195,2020,137942,12841,9.31
+Kentucky,Pike County,21195,2021,298195,21924,7.35
+Kentucky,Pike County,21195,2022,57245,3777,6.6
+Kentucky,Pike County,21195,2023,378829,22302,5.89
+Pennsylvania,Allegheny County,42003,2015,95113,6393,6.72
+Pennsylvania,Allegheny County,42003,2016,228699,14432,6.31
+Pennsylvania,Allegheny County,42003,2017,188477,11421,6.06
+Pennsylvania,Allegheny County,42003,2018,123440,6974,5.65
+Pennsylvania,Allegheny County,42003,2019,235276,13623,5.79
+Pennsylvania,Allegheny County,42003,2020,379654,19830,5.22
+Pennsylvania,Allegheny County,42003,2021,25240,1524,6.04
+Pennsylvania,Allegheny County,42003,2022,214429,12594,5.87
+Pennsylvania,Allegheny County,42003,2023,265074,12634,4.77
+Pennsylvania,Philadelphia County,42101,2015,219465,29786,13.57
+Pennsylvania,Philadelphia County,42101,2016,234687,33827,14.41
+Pennsylvania,Philadelphia County,42101,2017,331278,45608,13.77
+Pennsylvania,Philadelphia County,42101,2018,130625,16322,12.5
+Pennsylvania,Philadelphia County,42101,2019,269616,28529,10.58
+Pennsylvania,Philadelphia County,42101,2020,30217,2772,9.17
+Pennsylvania,Philadelphia County,42101,2021,226978,15762,6.94
+Pennsylvania,Philadelphia County,42101,2022,394679,26177,6.63
+Pennsylvania,Philadelphia County,42101,2023,81913,4856,5.93
+Massachusetts,Suffolk County,25025,2015,341241,23500,6.89
+Massachusetts,Suffolk County,25025,2016,325322,17887,5.5
+Massachusetts,Suffolk County,25025,2017,310903,18699,6.01
+Massachusetts,Suffolk County,25025,2018,239716,14294,5.96
+Massachusetts,Suffolk County,25025,2019,86145,4959,5.76
+Massachusetts,Suffolk County,25025,2020,151396,8962,5.92
+Massachusetts,Suffolk County,25025,2021,213759,11568,5.41
+Massachusetts,Suffolk County,25025,2022,191947,10066,5.24
+Massachusetts,Suffolk County,25025,2023,213771,12163,5.69
+Massachusetts,Essex County,25009,2015,236021,14932,6.33
+Massachusetts,Essex County,25009,2016,147262,10776,7.32
+Massachusetts,Essex County,25009,2017,297810,19147,6.43
+Massachusetts,Essex County,25009,2018,42307,2395,5.66
+Massachusetts,Essex County,25009,2019,355862,22317,6.27
+Massachusetts,Essex County,25009,2020,50975,2931,5.75
+Massachusetts,Essex County,25009,2021,31268,1786,5.71
+Massachusetts,Essex County,25009,2022,144647,7059,4.88
+Massachusetts,Essex County,25009,2023,94892,5053,5.33
+Florida,Miami-Dade County,12086,2015,140066,9212,6.58
+Florida,Miami-Dade County,12086,2016,310682,21026,6.77
+Florida,Miami-Dade County,12086,2017,129276,8563,6.62
+Florida,Miami-Dade County,12086,2018,208407,11983,5.75
+Florida,Miami-Dade County,12086,2019,102969,6144,5.97
+Florida,Miami-Dade County,12086,2020,391626,19344,4.94
+Florida,Miami-Dade County,12086,2021,75048,3725,4.96
+Florida,Miami-Dade County,12086,2022,178073,9779,5.49
+Florida,Miami-Dade County,12086,2023,71674,3630,5.06
+Florida,Palm Beach County,12099,2015,316883,18032,5.69
+Florida,Palm Beach County,12099,2016,370125,21888,5.91
+Florida,Palm Beach County,12099,2017,389873,25439,6.53
+Florida,Palm Beach County,12099,2018,118981,6946,5.84
+Florida,Palm Beach County,12099,2019,343855,22159,6.44
+Florida,Palm Beach County,12099,2020,142323,8584,6.03
+Florida,Palm Beach County,12099,2021,373748,22993,6.15
+Florida,Palm Beach County,12099,2022,329788,19330,5.86
+Florida,Palm Beach County,12099,2023,311711,17281,5.54
+California,Los Angeles County,06037,2015,36532,2130,5.83
+California,Los Angeles County,06037,2016,209285,12782,6.11
+California,Los Angeles County,06037,2017,51153,3349,6.55
+California,Los Angeles County,06037,2018,235231,13372,5.68
+California,Los Angeles County,06037,2019,272006,16011,5.89
+California,Los Angeles County,06037,2020,348229,22817,6.55
+California,Los Angeles County,06037,2021,256035,15942,6.23
+California,Los Angeles County,06037,2022,399720,21332,5.34
+California,Los Angeles County,06037,2023,288545,14103,4.89
+California,San Francisco County,06075,2015,297157,20236,6.81
+California,San Francisco County,06075,2016,268491,16866,6.28
+California,San Francisco County,06075,2017,325627,17813,5.47
+California,San Francisco County,06075,2018,155716,9676,6.21
+California,San Francisco County,06075,2019,60436,3486,5.77
+California,San Francisco County,06075,2020,161238,9706,6.02
+California,San Francisco County,06075,2021,258641,15053,5.82
+California,San Francisco County,06075,2022,313765,16465,5.25
+California,San Francisco County,06075,2023,30047,1502,5.0
+New York,New York County,36061,2015,274158,17136,6.25
+New York,New York County,36061,2016,126211,8204,6.5
+New York,New York County,36061,2017,201030,12054,6.0
+New York,New York County,36061,2018,327556,20171,6.16
+New York,New York County,36061,2019,382622,21241,5.55
+New York,New York County,36061,2020,285861,17500,6.12
+New York,New York County,36061,2021,115168,6048,5.25
+New York,New York County,36061,2022,271155,16264,6.0
+New York,New York County,36061,2023,306072,17223,5.63
+New York,Erie County,36029,2015,353639,23098,6.53
+New York,Erie County,36029,2016,388210,22276,5.74
+New York,Erie County,36029,2017,63786,3503,5.49
+New York,Erie County,36029,2018,169264,10310,6.09
+New York,Erie County,36029,2019,175540,10548,6.01
+New York,Erie County,36029,2020,363106,23072,6.35
+New York,Erie County,36029,2021,293355,15270,5.21
+New York,Erie County,36029,2022,195227,10206,5.23
+New York,Erie County,36029,2023,188429,8873,4.71
+Tennessee,Davidson County,47037,2015,199450,13560,6.8
+Tennessee,Davidson County,47037,2016,146807,9186,6.26
+Tennessee,Davidson County,47037,2017,135868,8011,5.9
+Tennessee,Davidson County,47037,2018,77681,4847,6.24
+Tennessee,Davidson County,47037,2019,295947,17993,6.08
+Tennessee,Davidson County,47037,2020,115422,7310,6.33
+Tennessee,Davidson County,47037,2021,128447,6954,5.41
+Tennessee,Davidson County,47037,2022,324113,17590,5.43
+Tennessee,Davidson County,47037,2023,290060,14442,4.98
+Tennessee,Knox County,47093,2015,116773,6514,5.58
+Tennessee,Knox County,47093,2016,170318,9723,5.71
+Tennessee,Knox County,47093,2017,22417,1398,6.24
+Tennessee,Knox County,47093,2018,386205,24327,6.3
+Tennessee,Knox County,47093,2019,43587,2435,5.59
+Tennessee,Knox County,47093,2020,305119,17336,5.68
+Tennessee,Knox County,47093,2021,349427,18690,5.35
+Tennessee,Knox County,47093,2022,272361,17369,6.38
+Tennessee,Knox County,47093,2023,164075,8778,5.35
+New Mexico,Bernalillo County,35001,2015,261099,34564,13.24
+New Mexico,Bernalillo County,35001,2016,41936,5887,14.04
+New Mexico,Bernalillo County,35001,2017,147371,21293,14.45
+New Mexico,Bernalillo County,35001,2018,49258,6440,13.08
+New Mexico,Bernalillo County,35001,2019,225086,24163,10.74
+New Mexico,Bernalillo County,35001,2020,374898,32339,8.63
+New Mexico,Bernalillo County,35001,2021,43106,3202,7.43
+New Mexico,Bernalillo County,35001,2022,174297,11631,6.67
+New Mexico,Bernalillo County,35001,2023,59659,3756,6.3
+New Mexico,Rio Arriba County,35039,2015,233195,31250,13.4
+New Mexico,Rio Arriba County,35039,2016,332885,47910,14.39
+New Mexico,Rio Arriba County,35039,2017,288978,40292,13.94
+New Mexico,Rio Arriba County,35039,2018,214427,26449,12.33
+New Mexico,Rio Arriba County,35039,2019,323556,33935,10.49
+New Mexico,Rio Arriba County,35039,2020,239830,22262,9.28
+New Mexico,Rio Arriba County,35039,2021,334622,24126,7.21
+New Mexico,Rio Arriba County,35039,2022,67026,4540,6.77
+New Mexico,Rio Arriba County,35039,2023,125637,7486,5.96
+Arizona,Maricopa County,04013,2015,153750,9858,6.41
+Arizona,Maricopa County,04013,2016,106128,6607,6.23
+Arizona,Maricopa County,04013,2017,304402,18271,6.0
+Arizona,Maricopa County,04013,2018,251193,15263,6.08
+Arizona,Maricopa County,04013,2019,376429,22259,5.91
+Arizona,Maricopa County,04013,2020,136360,7464,5.47
+Arizona,Maricopa County,04013,2021,166049,8992,5.42
+Arizona,Maricopa County,04013,2022,253043,13369,5.28
+Arizona,Maricopa County,04013,2023,52318,2459,4.7
+Arizona,Pima County,04019,2015,342710,21083,6.15
+Arizona,Pima County,04019,2016,324219,17869,5.51
+Arizona,Pima County,04019,2017,237895,13576,5.71
+Arizona,Pima County,04019,2018,75175,3954,5.26
+Arizona,Pima County,04019,2019,154267,8245,5.34
+Arizona,Pima County,04019,2020,89572,5007,5.59
+Arizona,Pima County,04019,2021,176277,10254,5.82
+Arizona,Pima County,04019,2022,326974,18162,5.55
+Arizona,Pima County,04019,2023,166315,8809,5.3
+Illinois,Cook County,17031,2015,245242,14668,5.98
+Illinois,Cook County,17031,2016,381861,25905,6.78
+Illinois,Cook County,17031,2017,226030,14987,6.63
+Illinois,Cook County,17031,2018,273890,17778,6.49
+Illinois,Cook County,17031,2019,244511,14020,5.73
+Illinois,Cook County,17031,2020,241507,14128,5.85
+Illinois,Cook County,17031,2021,183989,10405,5.66
+Illinois,Cook County,17031,2022,135022,7260,5.38
+Illinois,Cook County,17031,2023,368526,19327,5.24
+Illinois,Sangamon County,17167,2015,25876,1752,6.77
+Illinois,Sangamon County,17167,2016,367469,21685,5.9
+Illinois,Sangamon County,17167,2017,106850,6868,6.43
+Illinois,Sangamon County,17167,2018,261677,14596,5.58
+Illinois,Sangamon County,17167,2019,160834,8799,5.47
+Illinois,Sangamon County,17167,2020,110152,6277,5.7
+Illinois,Sangamon County,17167,2021,272805,16445,6.03
+Illinois,Sangamon County,17167,2022,62837,3419,5.44
+Illinois,Sangamon County,17167,2023,183326,8978,4.9
+North Carolina,Mecklenburg County,37119,2015,366342,24093,6.58
+North Carolina,Mecklenburg County,37119,2016,230820,15090,6.54
+North Carolina,Mecklenburg County,37119,2017,378684,24026,6.34
+North Carolina,Mecklenburg County,37119,2018,224952,12284,5.46
+North Carolina,Mecklenburg County,37119,2019,303409,17952,5.92
+North Carolina,Mecklenburg County,37119,2020,147329,8718,5.92
+North Carolina,Mecklenburg County,37119,2021,184488,10404,5.64
+North Carolina,Mecklenburg County,37119,2022,284796,16984,5.96
+North Carolina,Mecklenburg County,37119,2023,15603,898,5.76
+North Carolina,Buncombe County,37021,2015,231660,14423,6.23
+North Carolina,Buncombe County,37021,2016,43418,2575,5.93
+North Carolina,Buncombe County,37021,2017,276353,17534,6.34
+North Carolina,Buncombe County,37021,2018,342894,21946,6.4
+North Carolina,Buncombe County,37021,2019,155014,8957,5.78
+North Carolina,Buncombe County,37021,2020,302949,17560,5.8
+North Carolina,Buncombe County,37021,2021,381084,22195,5.82
+North Carolina,Buncombe County,37021,2022,269128,15318,5.69
+North Carolina,Buncombe County,37021,2023,334224,20313,6.08
+Indiana,Marion County,18097,2015,140460,19585,13.94
+Indiana,Marion County,18097,2016,22169,3173,14.31
+Indiana,Marion County,18097,2017,304538,42836,14.07
+Indiana,Marion County,18097,2018,74486,9244,12.41
+Indiana,Marion County,18097,2019,256931,28406,11.06
+Indiana,Marion County,18097,2020,95725,9282,9.7
+Indiana,Marion County,18097,2021,276292,19924,7.21
+Indiana,Marion County,18097,2022,384838,25218,6.55
+Indiana,Marion County,18097,2023,158353,8810,5.56
+Indiana,Scott County,18143,2015,262579,33621,12.8
+Indiana,Scott County,18143,2016,142785,20893,14.63
+Indiana,Scott County,18143,2017,114934,16303,14.18
+Indiana,Scott County,18143,2018,329246,41847,12.71
+Indiana,Scott County,18143,2019,51600,5201,10.08
+Indiana,Scott County,18143,2020,159833,14557,9.11
+Indiana,Scott County,18143,2021,193192,14512,7.51
+Indiana,Scott County,18143,2022,281200,15389,5.47
+Indiana,Scott County,18143,2023,395659,22540,5.7
+Maryland,Baltimore city,24510,2015,171529,22691,13.23
+Maryland,Baltimore city,24510,2016,360999,52977,14.68
+Maryland,Baltimore city,24510,2017,271712,37906,13.95
+Maryland,Baltimore city,24510,2018,268934,34795,12.94
+Maryland,Baltimore city,24510,2019,195944,20719,10.57
+Maryland,Baltimore city,24510,2020,212766,18753,8.81
+Maryland,Baltimore city,24510,2021,253731,20272,7.99
+Maryland,Baltimore city,24510,2022,380690,26597,6.99
+Maryland,Baltimore city,24510,2023,140202,7528,5.37
+Maryland,Baltimore County,24005,2015,230364,29803,12.94
+Maryland,Baltimore County,24005,2016,37883,5407,14.27
+Maryland,Baltimore County,24005,2017,214874,30538,14.21
+Maryland,Baltimore County,24005,2018,217416,28398,13.06
+Maryland,Baltimore County,24005,2019,356845,41420,11.61
+Maryland,Baltimore County,24005,2020,94746,8620,9.1
+Maryland,Baltimore County,24005,2021,278345,20292,7.29
+Maryland,Baltimore County,24005,2022,324424,20287,6.25
+Maryland,Baltimore County,24005,2023,245847,13790,5.61
+Vermont,Chittenden County,50007,2015,67277,4481,6.66
+Vermont,Chittenden County,50007,2016,393768,23287,5.91
+Vermont,Chittenden County,50007,2017,90578,5551,6.13
+Vermont,Chittenden County,50007,2018,95929,5331,5.56
+Vermont,Chittenden County,50007,2019,54231,3369,6.21
+Vermont,Chittenden County,50007,2020,192503,9075,4.71
+Vermont,Chittenden County,50007,2021,341767,19826,5.8
+Vermont,Chittenden County,50007,2022,187262,9824,5.25
+Vermont,Chittenden County,50007,2023,368557,17535,4.76
+New Hampshire,Hillsborough County,33011,2015,181021,24344,13.45
+New Hampshire,Hillsborough County,33011,2016,343623,48443,14.1
+New Hampshire,Hillsborough County,33011,2017,298648,42612,14.27
+New Hampshire,Hillsborough County,33011,2018,33821,4054,11.99
+New Hampshire,Hillsborough County,33011,2019,373822,39937,10.68
+New Hampshire,Hillsborough County,33011,2020,165669,14833,8.95
+New Hampshire,Hillsborough County,33011,2021,242526,19555,8.06
+New Hampshire,Hillsborough County,33011,2022,66612,4156,6.24
+New Hampshire,Hillsborough County,33011,2023,67694,3886,5.74
+Connecticut,Hartford County,09003,2015,247615,14553,5.88
+Connecticut,Hartford County,09003,2016,30176,1967,6.52
+Connecticut,Hartford County,09003,2017,39112,2539,6.49
+Connecticut,Hartford County,09003,2018,202938,12153,5.99
+Connecticut,Hartford County,09003,2019,211524,12737,6.02
+Connecticut,Hartford County,09003,2020,231033,12657,5.48
+Connecticut,Hartford County,09003,2021,311709,17849,5.73
+Connecticut,Hartford County,09003,2022,106786,5708,5.35
+Connecticut,Hartford County,09003,2023,56402,2860,5.07
+Michigan,Wayne County,26163,2015,373159,48125,12.9
+Michigan,Wayne County,26163,2016,141264,19990,14.15
+Michigan,Wayne County,26163,2017,136733,18966,13.87
+Michigan,Wayne County,26163,2018,256775,32502,12.66
+Michigan,Wayne County,26163,2019,364616,38695,10.61
+Michigan,Wayne County,26163,2020,19926,1756,8.81
+Michigan,Wayne County,26163,2021,165801,12867,7.76
+Michigan,Wayne County,26163,2022,370263,22158,5.98
+Michigan,Wayne County,26163,2023,196175,10888,5.55
+Missouri,St. Louis city,29510,2015,323056,42497,13.15
+Missouri,St. Louis city,29510,2016,376923,53105,14.09
+Missouri,St. Louis city,29510,2017,146123,22466,15.37
+Missouri,St. Louis city,29510,2018,216690,26703,12.32
+Missouri,St. Louis city,29510,2019,268340,29493,10.99
+Missouri,St. Louis city,29510,2020,203197,19217,9.46
+Missouri,St. Louis city,29510,2021,316366,24181,7.64
+Missouri,St. Louis city,29510,2022,26502,1610,6.07
+Missouri,St. Louis city,29510,2023,360101,22667,6.29
+Colorado,Denver County,08031,2015,374556,24195,6.46
+Colorado,Denver County,08031,2016,40713,2598,6.38
+Colorado,Denver County,08031,2017,165048,11157,6.76
+Colorado,Denver County,08031,2018,135648,7729,5.7
+Colorado,Denver County,08031,2019,348771,19560,5.61
+Colorado,Denver County,08031,2020,114683,6328,5.52
+Colorado,Denver County,08031,2021,392974,20291,5.16
+Colorado,Denver County,08031,2022,360600,18158,5.04
+Colorado,Denver County,08031,2023,65941,3435,5.21
+Washington,King County,53033,2015,343968,21681,6.3
+Washington,King County,53033,2016,246118,15115,6.14
+Washington,King County,53033,2017,32492,1926,5.93
+Washington,King County,53033,2018,62255,3412,5.48
+Washington,King County,53033,2019,169722,9485,5.59
+Washington,King County,53033,2020,120274,6685,5.56
+Washington,King County,53033,2021,84289,5030,5.97
+Washington,King County,53033,2022,206814,11656,5.64
+Washington,King County,53033,2023,293319,13209,4.5
+Oregon,Multnomah County,41051,2015,101268,6259,6.18
+Oregon,Multnomah County,41051,2016,149726,9502,6.35
+Oregon,Multnomah County,41051,2017,169739,11923,7.02
+Oregon,Multnomah County,41051,2018,192584,10700,5.56
+Oregon,Multnomah County,41051,2019,54478,3296,6.05
+Oregon,Multnomah County,41051,2020,88797,4730,5.33
+Oregon,Multnomah County,41051,2021,369588,20725,5.61
+Oregon,Multnomah County,41051,2022,394698,20382,5.16
+Oregon,Multnomah County,41051,2023,307192,15716,5.12
+Georgia,Fulton County,13121,2015,206771,12700,6.14
+Georgia,Fulton County,13121,2016,153652,10276,6.69
+Georgia,Fulton County,13121,2017,296318,19010,6.42
+Georgia,Fulton County,13121,2018,367500,23239,6.32
+Georgia,Fulton County,13121,2019,152448,9404,6.17
+Georgia,Fulton County,13121,2020,209759,10716,5.11
+Georgia,Fulton County,13121,2021,71804,3750,5.22
+Georgia,Fulton County,13121,2022,339820,17822,5.24
+Georgia,Fulton County,13121,2023,309339,15151,4.9
